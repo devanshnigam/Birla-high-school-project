@@ -1,7 +1,24 @@
-body () {
-    text-align: center;
+body {
+    text-align: left;
+    background-color: beige;
+    
 }
 
-h4 () {
-    text-decoration-color: cornflowerblue;
+h4 {
+    color: indigo; 
+    text-decoration: underline;
+    text-decoration-style:dotted;
+    font: 15 px;
+}
+
+.row::after {
+
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel main_div{
+    border
+    
 }
