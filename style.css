@@ -8,7 +8,7 @@ h4 {
     color: indigo; 
     text-decoration: underline;
     text-decoration-style:dotted;
-    font: 15 px;
+    font-size: 25px;
 }
 
 .row::after {
